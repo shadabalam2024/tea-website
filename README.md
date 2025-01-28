@@ -1,2 +1,2 @@
 # tea-website
-its a
+It is  a simple landing page of tea selling website using HTML and CSS only.
